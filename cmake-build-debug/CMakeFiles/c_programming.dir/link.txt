@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/c_programming.dir/main.c.o CMakeFiles/c_programming.dir/config.c.o  -o c_programming  -lcurses /usr/lib64/libform.so /usr/lib64/libxml2.so 

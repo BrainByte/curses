@@ -30,7 +30,7 @@ int main(void)
     maxcols  = COLS - 1;
 
     Field *currField = NULL;
-    Field *fields    = loadDoc( "/data/c-code/c-programming/config.xml" );
+    Field *fields    = loadDoc( "/data/c-code/curses/config.xml" );
 
     dumpFields( fields );
 
