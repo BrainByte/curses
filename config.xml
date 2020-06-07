@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <screen>
+        <name>Setup</name>
+        <label x="2" y="2">GREETINGS</label>
+        <input x="2" y="4" size="20">Name : </input>
+        <label x="2" y="6">HELLO</label>
+        <input x="2" y="8" size="20">Age  : </input>
+    </screen>
+    <init>
+        <param1>value1</param1>
+        <param2>value2</param2>
+    </init>
+</config>
