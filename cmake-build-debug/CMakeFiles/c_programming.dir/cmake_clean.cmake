@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c_programming.dir/config.c.o"
-  "CMakeFiles/c_programming.dir/main.c.o"
-  "c_programming"
+  "CMakeFiles/c_programming.dir/config.c.obj"
+  "CMakeFiles/c_programming.dir/main.c.obj"
+  "c_programming.exe"
+  "c_programming.exe.manifest"
+  "c_programming.lib"
   "c_programming.pdb"
 )
 

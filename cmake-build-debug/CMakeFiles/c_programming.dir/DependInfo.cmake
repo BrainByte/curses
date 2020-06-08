@@ -4,14 +4,19 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/data/c-code/curses/config.c" "/data/c-code/curses/cmake-build-debug/CMakeFiles/c_programming.dir/config.c.o"
-  "/data/c-code/curses/main.c" "/data/c-code/curses/cmake-build-debug/CMakeFiles/c_programming.dir/main.c.o"
+  "E:/data/c-code/curses/config.c" "E:/data/c-code/curses/cmake-build-debug/CMakeFiles/c_programming.dir/config.c.obj"
+  "E:/data/c-code/curses/main.c" "E:/data/c-code/curses/cmake-build-debug/CMakeFiles/c_programming.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "MSVC")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "PDC_DLL_BUILD"
+  )
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/usr/include/libxml2"
+  "../win"
   "../include"
   )
 
